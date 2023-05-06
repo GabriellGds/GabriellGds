@@ -1,7 +1,7 @@
 ## Olá! Eu sou Gabriel Gomes ✌️
 
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGds&show_icons=true&theme=dracula)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabriellGds&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso
 
